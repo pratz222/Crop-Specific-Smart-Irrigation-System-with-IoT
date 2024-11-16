@@ -1,3 +1,4 @@
+# Crop Specific Smart Irrigation System with IoT
 This project implements a **smart irrigation system** using **ESP32 microcontrollers** to measure soil moisture, temperature, and rain detection data in real-time. The system sends data to a Firebase Realtime Database and adjusts water output based on predefined crop categories and moisture levels, ensuring efficient and automated irrigation. This README provides details on how to replicate the project, hardware/software requirements, setup instructions, and usage.
 
 ## Table of Contents
