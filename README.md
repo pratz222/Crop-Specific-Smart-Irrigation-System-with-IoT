@@ -130,7 +130,6 @@ Adjust motor speeds within the code based on crop needs and environmental condit
 
 ## Future Improvements
 
-- **Add Mobile App Interface**: Integrate a mobile app for remote monitoring and control.
 - **Weather Forecasting**: Use online weather API data to adjust watering schedules.
 - **Battery Optimization**: Explore power-efficient modes for longer battery life.
 - **Enhanced Security**: Implement authentication and secure database rules for production.
