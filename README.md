@@ -29,6 +29,8 @@ This project involves two ESP32 microcontrollers:
 - **Adjustable Watering**: Different water requirements based on crop types.
 - **Weather-Adaptive**: Halts irrigation if rain is detected.
 
+ ![irrigation](https://github.com/user-attachments/assets/e40aaae6-9b33-4af9-b1aa-11a61280b1a3)
+
  ![webpage](https://github.com/user-attachments/assets/a6141059-d511-4117-a119-c4758f422f0c)
 
  ![Mobile_App](https://github.com/user-attachments/assets/a2e7b69a-6299-4ef4-b086-85409c765085)
